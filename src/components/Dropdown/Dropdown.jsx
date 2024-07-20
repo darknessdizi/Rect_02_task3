@@ -5,7 +5,7 @@ export const Dropdown = () => {
   const [state, setState] = useState(false);
   const name = (state) ? "dropdown-wrapper open" : "dropdown-wrapper";
 
-  const handleClick = (e) => {
+  const handleClick = () => {
     (state) ? setState(false) : setState(true);
   }
 
