@@ -1,6 +1,10 @@
 Выпадающий список
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cm1uk82w5n7i5u52?svg=true)](https://ci.appveyor.com/project/darknessdizi/rect-02-task3)
+
+*Ссылка на страницу:* https://darknessdizi.github.io/Rect_02_task3/
+
 Вам необходимо реализовать компоненты выпадающего списка.
 
 ## Описание проекта
